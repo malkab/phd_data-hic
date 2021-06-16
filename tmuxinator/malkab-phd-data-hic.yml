@@ -1,0 +1,17 @@
+name: malkab-phd-data-hic
+root: /home/git/malkab-phd-data/malkab-phd-data-hic
+
+windows:
+
+  - src: >
+      clear ;
+      sleep 0.2 ;
+      cd docker ;
+      . mlkcontext common
+
+  - psql-cell_raw_data: >
+      clear ;
+      sleep 2 ;
+      cd docker ;
+      . mlkcontext common ;
+      ./110-pg-psql-cell_raw_data.sh

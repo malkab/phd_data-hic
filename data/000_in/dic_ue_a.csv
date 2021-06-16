@@ -1,0 +1,112 @@
+gid|cod|nom
+1|1150*|Lagunas costeras. (*)
+2|1210|Vegetación efímera sobre desechos marinos acumulados (Vegetación anual sobre desechos marinos acumulados)
+3|1230+|Acantilados con vegetación de las costas atlánticas y bálticas
+4|1240|Acantilados con vegetación de las costas mediterráneas con Limonium spp endémicos
+5|1310|Vegetación anual pionera con Salicornia y otras especies de zonas fangosas o arenosas
+6|1320|Pastizales de Spartina (Spartinion maritimi)
+7|1410|Pastizales salinos mediterráneos (Juncetalia maritimi)
+8|1420|Matorrales halófilos mediterráneos y termoatlánticos (Sarcocornetea fructicosae)
+9|1430|Matorrales halo-nitrófilos (Pegano-Salsoletea)
+10|1510*|Estepas salinas mediterráneas (Limonietalia) (*)
+11|1520*|Vegetación gipsícola ibérica (Gypsophiletalia) (*)
+12|2110+|Dunas móviles embrionarias
+13|2120+|Dunas móviles de litoral con Ammophila arenaria (dunas blancas)
+14|2130*|Dunas costeras fijas con vegetación herbácea (dunas grises) (*)
+15|2150_0*|Dunas fijas descalcificadas atlánticas (Calluno-Ulicetea). Subtipo: Brezales atlánticos en dunas y arenas litorales descalcificadas (*)
+16|2150_1*|Dunas fijas descalcificadas atlánticas (Calluno-Ulicetea). Subtipo: Brezales atlánticos en arenales interiores descalcificados (*)
+17|2190+|Depresiones intradunales húmedas (+)
+18|2210+|Dunas fijas de litoral del Crucianellion maritimae (+)
+19|2230_0+|Dunas con céspedes del Malcomietalia. Subtipo: Céspedes del Malcomietalia en dunas y arenas litorales (+)
+20|2230_1+|Dunas con céspedes del Malcomietalia. Subtipo: Pastizales de arenales interiores mediterráneos (+)
+21|2250*|Dunas litorales con Juniperus spp. (*)
+22|2260_0+|Dunas con vegetación esclerófila del Cisto-Lavanduletalia. Subtipo: Tomillares y matorrales en dunas y arenas litorales (+)
+23|2260_1+|Dunas con vegetación esclerófila del Cisto-Lavanduletalia. Subtipo: Tomillares y matorrales de arenales interiores mediterráneos (+)
+24|2260_2+|Dunas con vegetación esclerófila del Cisto-Lavanduletalia. Subtipo: Matorrales altos esclerófilos sobre dunas litorales (+)
+25|2270*|Dunas con bosques de Pinus pinea y/o Pinus pinaster (*)
+26|3110_0+|Aguas oligotróficas con un contenido de minerales muy bajo de las llanuras arenosas (Littorelletalia uniflorae). Subtipo: Aguas oligotróficas con un contenido de minerales muy bajo (+)
+27|3110_1+|Aguas oligotróficas con un contenido de minerales muy bajo de las llanuras arenosas (Littorelletalia uniflorae). Subtipo: Lagunas glaciares de altas montañas  (+)
+28|3150_0+|Lagos eutróficos naturales con vegetación Magnopotamion o Hydrocharition. Subtipo: Lagos eutróficos naturales (+)
+29|3150_1|Lagos eutróficos naturales con vegetación Magnopotamion o Hydrocharition. Subtipo: Remansos de rios eutróficos
+30|3190+|Lagos y lagunas kársticas sobre yesos (+)
+31|3250|Ríos mediterráneos de caudal permanente con Glaucium flavum
+32|3260|Ríos de pisos de planicie a montano con vegetación de Ranunculion fluitantis y de Callitricho-Batrachion
+33|3270|Ríos de orillas fangosas con vegetación de Chenopodion rubri p p Bidention p p
+34|3280|Ríos mediterráneos de caudal permanente del Paspalo-Agrostidion con cortinas vegetales ribereñas de Salix y Populus alba
+35|3290|Ríos mediterráneos de caudal intermitente del Paspalo-Agrostidion
+36|4020*|Brezales húmedos atlánticos con especies higrófilas de Erica y Genista (Brezales húmedos atlánticos de zonas templadas de Erica cillaris y Erica tetralix) (*)
+37|4030_0|Brezales secos europeos. Subtipo: Brezales termófilos
+38|4030_1|Brezales secos europeos. Subtipo: Brezales-jarales termófilos xéricos
+39|4060+|Enebrales rastreros de montaña. Juniperion nanae, Pino Juniperion sabinae p., Pino-Cytision purgantes p. (Brezales alpinos y boreales) (+)
+40|4090_0|Matorrales pulvinulares orófilos europeos meridionales. Subtipo: Matorrales almohadillados fundamentalmente oromediterraneos
+41|4090_1|Matorrales pulvinulares orófilos europeos meridionales. Subtipo: Matorrales almohadillados de media montaña, meso-supramediterráneos, endémicos
+42|4090_2|Matorrales pulvinulares orófilos europeos meridionales. Subtipo: Jarales de Cistus laurifolius
+43|5110_0|Formaciones estables xerotermófilas de Buxus sempervirens en pendientes rocosas (Berberidion p p). Subtipo: Formaciones  de Buxus sempervirens
+44|5110_1|Formaciones estables xerotermófilas de Buxus sempervirens en pendientes rocosas (Berberidion p p). Subtipo: Espinares y orlas húmedas (Rhamno-Prunetalia)
+45|5120|Formaciones montanas de Genista purgans
+46|5210|Matorrales arborescentes de Juniperus spp
+47|5220*|Matorrales arborescentes de Zyziphus (*)
+48|5330_1|Matorrales áridos y semiáridos (Matorrales termomediterráneos pre-estépicos). Subtipo: Matorrales arborescentes de Arbutus unedo y otras arbustedas lauroides (Ericion arboreae)
+49|5330_2|Matorrales áridos y semiáridos (Matorrales termomediterráneos pre-estépicos). Subtipo: Arbustedas termófilas mediterráneas (Asparago-Rhamnion)
+50|5330_3|Matorrales áridos y semiáridos (Matorrales termomediterráneos pre-estépicos). Subtipo: Retamares termófilos mediterráneos y similares
+51|5330_4|Matorrales áridos y semiáridos (Matorrales termomediterráneos pre-estépicos). Subtipo: Matorrales permanentes termo-xerófilos mediterráneos
+52|5330_5|Matorrales áridos y semiáridos (Matorrales termomediterráneos pre-estépicos). Subtipo: Tomillares termófilos y xerófilos mediterráneos
+53|5330_6|Matorrales áridos y semiáridos (Matorrales termomediterráneos pre-estépicos). Subtipo: Matorrales de sustitución termófilos, con endemismos
+54|5330_7|Matorrales áridos y semiáridos (Matorrales termomediterráneos pre-estépicos). Subtipo: Coscojares mesomediterráneos de Quercus cocciferae (Rhamno-Quercion)
+55|6160|Pastos orófilos mediterráneos de Festuca indigesta (Prados ibéricos silíceos de Festuca indigesta)
+56|6170|Pastos de alta montaña caliza (Prados alpinos y subalpinos calcáreos)
+57|6220_0*-|Zonas subestépicas de gramíneas y anuales del Thero-Brachypodietea. Subtipo: Pastizales anuales mediterráneos, neutro-basófilos y termo-xerofíticos (Trachynietalia distachyae) (*-)
+58|6220_1*-|Zonas subestépicas de gramíneas y anuales del Thero-Brachypodietea. Subtipo: Pastizales vivaces neutro-basófilos mediterráneos (Lygeo-Stipetea) (*-)
+59|6220_2*-|Zonas subestépicas de gramíneas y anuales del Thero-Brachypodietea. Subtipo: Majadales de Poa bulbosa (Poetea bulbosae) (*-)
+60|6220_3*-|Zonas subestépicas de gramíneas y anuales del Thero-Brachypodietea. Subtipo: Pastizales mediterráneos basófilos y ombrófilos, de media y alta montaña (*-)
+61|6220_4*-|Zonas subestépicas de gramíneas y anuales del Thero-Brachypodietea. Subtipo: Pastizales anuales acidófilos mediterráneos  (*-)
+62|6220_5*-|Zonas subestépicas de gramíneas y anuales del Thero-Brachypodietea. Subtipo: Valicares vivaces de Agrostis castellana (Agrostietalia castellanae) (*-)
+63|6230_1*|Formaciones herbosas con Nardus, con numerosas especies, sobre sustratos silíceos de zonas montañosas (y de zonas submontañosas de la Europa continental). Subtipo: Borreguiles y turberas silíceas de alta montaña (*)
+64|6310|Dehesas perennifolias de Quercus spp.
+65|6420|Prados húmedos mediterráneos de hierbas altas del Molinion-Holoschoenion
+66|6430|Megaforbios eutrofos hidrófilos de las orlas de llanura y de los pisos montano a alpino
+67|7220*|Formaciones tobáceas generadas por comunidades briofíticas en aguas carbonatadas (Manantiales petrificantes con formación de tuf (Cratoneurion)) (*)
+68|8130_0|Desprendimientos mediterráneos occidentales y termófilos. Subtipo: Gleras, canchales y pedreras
+69|8130_1+|Desprendimientos mediterráneos occidentales y termófilos. Subtipo: Roquedos, desprendimientos rocosos y taludes terrosos peridotíticos y serpentínicos (+)
+70|8210|Pendientes rocosas calcícolas con vegetación casmofítica
+71|8220|Pendientes rocosas silíceas con vegetación casmofítica
+72|8230|Roquedos silíceos con vegetación pionera del Sedo-Scleranthion o del Sedo albi-Veronicion dillenii
+73|8310|Cuevas no explotadas por el turismo
+74|9180_1*|Bosques de laderas, desprendimientos o barrancos del Tilio-Acerion. Subtipo: Abedulares de alta montaña mediterránea (*)
+75|91B0_0|Fresnedas termófilas de Fraxinus angustifolia. Subtipo: Fresnedas termófilas no riparias de Fraxinus angustifolia
+76|91B0_1|Fresnedas termófilas de Fraxinus angustifolia. Subtipo: Fresnedas termófilas riparias de Fraxinus angustifolia
+77|91E0*|Bosques aluviales de Alnus glutinosa y Fraxinus excelsior (Alno-Padion, Alnion incanae, Salicion albae) (*)
+78|9230+|Melojares de Quercus pyrenaica (Robledales galaico-portugueses con Quercus robur y Quercus pyrenaica)
+79|9240_0|Robledales ibéricos de Quercus faginea y Quercus canariensis. Subtipo: Quejigares de Quercus faginea y Quercus canariensis
+80|9240_1+|Robledales ibéricos de Quercus faginea y Quercus canariensis. Subtipo: Avellanedas mediterráneas  (+)
+81|9240_2+|Robledales ibéricos de Quercus faginea y Quercus canariensis. Subtipo: Acerales mediterráneos  (+)
+82|9260_0|Bosques de Castanea sativa. Subtipo: Bosques antiguos de Castanea sativa
+83|9260_1|Bosques de Castanea sativa. Subtipo: Castañares en explotación
+84|92A0_0|Bosques galería de Salix alba y Populus alba. Subtipo: Alamedas y saucedas arbóreas
+85|92A0_1+|Bosques galería de Salix alba y Populus alba. Subtipo: Olmedas mediterráneas (+)
+86|92A0_2|Bosques galería de Salix alba y Populus alba. Subtipo:  Saucedas predominantemente arbustivas o arborescentes
+87|92B0_0+|Bosques en galería de ríos con caudal intermitente en la región Mediterránea con Rhododendron ponticum y Betula parvibracteata. Subtipo: Alisedas con Rhododendron (+)
+88|92B0_1+|Bosques en galería de ríos con caudal intermitente en la región Mediterránea con Rhododendron ponticum y Betula parvibracteata. Subtipo: Canutos con ojaranzos del Aljibe (+)
+89|92D0_0|Galerías y matorrales ribereños termomediterráneos (Nerio-Tamaricetea y Securinegion tinctoriae). Subtipo:  Adelfares y tarajales (Nerio-Tamaricetea)
+90|92D0_1|Galerías y matorrales ribereños termomediterráneos (Nerio-Tamaricetea y Securinegion tinctoriae). Subtipo: Tamujares (Securinegion buxifoliae)
+91|9320_0|Bosques de Olea y Ceratonia. Subtipo: Acebuchales generalmante sobre bujeos
+92|9320_1+|Bosques de Olea y Ceratonia. Subtipo: Algarrobales-Acebuchales sobre calizas (+)
+93|9330|Alcornocales de Quercus suber
+94|9340|Bosques de Quercus ilex y Quercus rotundifolia
+95|9520+|Abetales de Abies pinsapo (+)
+96|9530*|Pinares (sud-)mediterráneos de pinos negros endémicos (*)
+97|9540|Pinares mediterráneos de pinos mesogeanos endémicos
+98|2150_2*|Dunas fijas descalcificadas atlánticas (Calluno-Ulicetea). Subtipo: Brezales de Erica ciliaris en dunas y arenas litorales (*)
+99|2180_1+|Dunas arboladas de las regiones atlánticas, continental y boreal. Subtipo: Bosques de alcornoques sobre dunas litorales fijas (+)
+100|2180_2|Dunas arboladas de las regiones atlánticas, continental y boreal. Subtipo: Formaciones leñosas ribereñas sobre dunas litorales fijas
+101|3110_2+|Aguas oligotróficas con un contenido de minerales muy bajo de las llanuras arenosas (Littorelletalia uniflorae). Subtipo: Aguas oligotróficas con un contenido de minerales muy bajo en dunas y arenas litorales (+)
+102|3160_0+|Lagos y estanques distróficos naturales. Subtipo: Lagos y estanques distróficos naturales (+)
+103|3160_1+|Lagos y estanques distróficos naturales. Subtipo: Lagos y estanques distróficos naturales en dunas y arenas litorales (+)
+104|3170_1*|Estanques temporales mediterráneos. Subtipo: Estanques temporales en dunas y arenas litorales (*)
+105|3170_0*|Estanques temporales mediterráneos. Subtipo: Estanques temporales mediterráneos (*)
+106|3150_2+|Lagos eutróficos naturales con vegetación Magnopotamion o Hydrocharition. Subtipo: Lagos eutróficos naturales en dunas y arenas litorales (+)
+107|7210_0*|µreas pantanosas calcáreas con Cladium mariscus y especies de Caricion davallianae. Subtipo: Turberas calcáreas del Cladium mariscus y con especies del Caricion davallianae (*)
+108|7210_1*|µreas pantanosas calcáreas con Cladium mariscus y especies de Caricion davallianae. Subtipo: Turberas calcáreas con Cladium mariscus en dunas y arenas litorales (*)
+109|1340*|Pastizales salinos continentales. (*)
+110|3140_0|Aguas oligomesotróficas calcáreas con vegetación béntica de Chara spp. Subtipo: Aguas oligomesotróficas calcáreas con vegetación béntica de Chara spp.
+111|3140_1|Aguas oligomesotróficas calcáreas con vegetación béntica de Chara spp. Subtipo: Aguas oligomesotróficas calcáreas con vegetación béntica de Chara spp. en dunas y arenas litorales

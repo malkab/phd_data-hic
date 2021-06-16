@@ -1,0 +1,30 @@
+#!/bin/bash
+
+# ---------------------------
+#
+# Common settings for all contexts.
+#
+# ---------------------------
+#
+# Prefix variables with MLKC_.
+#
+# ---------------------------
+# -----
+# Docker
+# -----
+export MLKC_CELL_NETWORK=cell
+export MLKC_CELL_RAW_DATA_NETWORK=cell_raw_data
+
+# -----
+# PG persistence config for cell_raw_data, some items at mlkcontext/system
+# -----
+export MLKC_CELL_RAW_DATA_NETWORK=
+export MLKC_CELL_RAW_DATA_HOST=$MLKC_SYSTEM_37NORTH_HOST
+export MLKC_CELL_RAW_DATA_USER=$MLKC_SYSTEM_37NORTH_PG_USER
+export MLKC_CELL_RAW_DATA_PORT=$MLKC_SYSTEM_37NORTH_PG_PORT
+export MLKC_CELL_RAW_DATA_PASS=$MLKC_SYSTEM_37NORTH_PG_PASS
+export MLKC_CELL_RAW_DATA_DB=cell_raw_data
+export MLKC_CELL_RAW_DATA_DOCKER_EXTERNAL_PORT=5700
+export MLKC_CELL_RAW_DATA_MAXPOOLSIZE=2000
+export MLKC_CELL_RAW_DATA_MINPOOLSIZE=5
+export MLKC_CELL_RAW_DATA_IDLETIMEOUTMILLIS=60000

@@ -1,0 +1,715 @@
+gid|cod_comun|sintaxon|codigo_ue
+1|43414|Aceri granatensis-Fraxinetum angustifoliae|9240_2
+2|42619|Caro foetidi-Juncetum maritimi|1410
+3|42620|Centaureo dracunculifoliae-Dorycnietum gracilis|1410
+4|42623|Puccinellietum caespitosae|1410
+5|42643|Paeonio coriaceae-Festucetum elegantis|6220_5
+6|42645|Deschampsio strictae-Agrostietum curtisii|6220_5
+7|42648|Plantagini radicatae-Festucetum indigestae|6160
+8|42658|Lemnetum gibbae|3150_0
+9|42664|Ricciocarpetum natantis|3150_0
+10|42678|Junco emmanuelis-Eleocharitetum multicaulis|3110_0
+11|42679|Scirpo fluitantis-Juncetum heterophylli|3110_0
+12|42698|Teucrio pseudochamaepityos-Brachypodietum retusi|6220_1
+13|42699|Helictotricho sarracenorum-Brachypodietum boissieri|6220_1
+14|42700|Brachypodio boissieri-Trisetetum velutini|6220_3
+15|42701|Festuco hystricis-Avenetum filifoliae|6220_1
+16|42702|Pilosello capitatae-Brachypodietum retusi|6220_3
+17|42703|Phlomido lychnitidis-Brachypodietum retusi|6220_1
+18|42705|Phlomido lychnitidis-Brachypodietum retusi thymetosum baetici|6220_1
+19|42706|Ruto angustifoliae-Brachypodietum retusi|6220_1
+20|42708|Helictotricho filifolii-Festucetum scariosae|6220_1
+21|42709|Avenulo pauneroi-Helictotrichetum cazorlensis|6220_1
+22|42710|Festuco scariosae-Helictotrichetum arundani|6220_1
+23|42711|Comunidad de Festuca indigesta subsp. hackeliana|6170
+24|42712|Comunidad de Festuca nevadensis|6160
+25|42713|Dactylido hispanicae-Festucetum scariosae|6220_1
+26|42768|Holoschoenetum vulgaris|6420
+27|42769|Lysimachio ephemeri-Holoschoenetum|6420
+28|42770|Trifolio resupinati-Holoschoenetum|6420
+29|42771|Peucedano hispanici-Sonchetum aquatilis|6420
+30|29882|Malcolmietalia|2230_0
+31|29882|Malcolmietalia|2230_1
+32|29896|Holoschoenetalia vulgaris|2190
+33|29963|Plantagini coronopi-Hordeetum marini|1310
+34|29967|Potametum trichoidis|3150_1
+35|29968|Callitricho stagnalis-Ranunculetum saniculifolii|3150_1
+36|29968|Callitricho stagnalis-Ranunculetum saniculifolii|3170
+37|29968|Callitricho stagnalis-Ranunculetum saniculifolii|3260
+38|29969|Callitrichetum regis-jubae|3150_1
+39|29969|Callitrichetum regis-jubae|3260
+40|30054|Scrophulario laxiflorae-Rhododendretum baetici|92B0_1
+41|30055|Scrophulario laxiflorae-Rhododendretum baetici culcitetosum macrocarpae|92B0_1
+42|30061|Solenopsio laurentiae-Juncetum tingitani juncetosum tingitani|3170
+43|30062|Solenopsio laurentiae-Juncetum tingitani pinguiculetosum lusitanicae|3170
+44|30063|Juncetum perpusilli|3170
+45|30064|Comunidad de Alnus glutinosa|91E0
+46|30067|Asparago acutifolii-Quercetum rofundifoliae|9340
+47|30068|Oleo sylvestris-Quercetum broteroi|9240_0
+48|30069|Adenocarpo decorticantis-Quercetum rotundifoliae quercetosum fagineae|9340
+49|30070|Vinco difformis-Ceratonietum siliquae|9320_1
+50|30071|Aro italici-Oleetum sylvestris ceratonietosum siliquae|9320_0
+51|30074|Thymo gracilis-Lavanduletum lanatae tymetosum baetici|5330_6
+52|30076|Jasonio saxatilis-Teucrietum thymifolii|8210
+53|30077|Genisto tridentis-Stauracanthetum boivinii cytisetosum tribracteolati|4030_0
+54|30078|Saturejo salzmannii-Drosophylletum lusitanici saturejetosum salzmannii|4030_0
+55|30079|Velezio rigidae-Asteriscetum aquatici sedetosum subentis|6220_0
+56|30085|Astero squamati-Panicetum repentis|3280
+57|30088|Hedysaro coronarii-Phalaridetum coerulescentis|6220_4
+58|30090|Hedysaro coronarii-Phalaridetum coerulescentis convolvuletosum meonanthi|6220_4
+59|30093|Comunidad de Launea lanifera|8130
+60|30094|Genisto retamoidis-Retametum sphaerocarpae|5330_3
+61|30095|Rhamno lycioidis-Genistetum murcicae|5330_4
+62|30096|Rosetum micrantho-agrestis|5110_1
+63|30097|Teucrio webbiani-Helianthemetum origanifolii|4090_1
+64|30098|Lepidio subulati-Teucrietum balthazaris|1520
+65|30105|Myrto communis-Quercetum rotundifoliae quercetosum|9340
+66|30108|Myrto communis-Quercetum suberis pteridietosum|9330
+67|42058|Eucladio-Adiantetum capilli-veneris|7220
+68|42059|Trachelio coerulei-Adiantetum capilli-veneris|7220
+69|42060|Eucladio-Pinguiculetum mundi|7220
+70|42064|Loto cretici-Ammophiletum australis|2120
+71|42069|Otantho maritimi-Ammophiletum australis|2120
+72|42074|Euphorbio paraliae-Elytrigietum boreoatlanticae|2110
+73|42078|Loto cretici-Crucianelletum maritimae|2210
+74|42080|Artemisio crithmifoliae-Armerietum pungentis|2130
+75|42088|Davallio canariensis-Sedetum baetici|8220
+76|42089|Davallio canariensis-Sedetum baetici sedetosum baetici|8220
+77|42090|Davallio canariensis-Sedetum baetici psilotetosum nudi|8220
+78|42092|Sedo-Polypodietum cambrici|8220
+79|42093|Pleurosoretum hispanici|8210
+80|42096|Selaginello-Anogrammetum leptophyllae anogrammetosum leptophyllae|8220
+81|42097|Selaginello-Anogrammetum leptophyllae arisaretosum proboscidei|8220
+82|42098|Asplenio corunnensis-Saxifragetum gemmulosae|8220
+83|42117|Cirsio gregarii-Dactyletum juncinellae|6160
+84|42125|Myrrhoidi nodosae-Alliarietum petiolatae|6430
+85|42158|Teucrio rotundifolii-Kerneretum boissieri|8210
+86|42159|Hieracio texedensis-Moeheringietum tejedensis|8210
+87|42160|Athamanto hispanicae-Sideritidetum stachydioidis|8210
+88|42161|Saxifragetum camposii|8210
+89|42162|Linario cuartanensis-Saxifragetum rigoi|8210
+90|42163|Rumici scutati-Aquilegietum cazorlensis|8130
+91|42164|Moehringietum giennensis|8210
+92|42165|Teucrio fragilis-Scabiosetum grosii|8210
+93|42166|Sarcocapnetum pulcherrimae|8210
+94|42169|Saxifragetum nevadensis|8220
+95|42170|Centrantho nevadensis-Sedetum brevifolii|8220
+96|42172|Jasiono marianae-Dianthetum lusitani|8220
+97|42173|Asplenio billotii-Cheilanthetum hispanicae|8220
+98|42174|Asplenio billotii-Cheilanthetum tinaei|8220
+99|42178|Jasonio glutinosae-Teucrietum rotundifolii|8210
+100|42180|Lapiedro martinezii-Cosentinietum bivalentis|8210
+101|42181|Sideritido glaucae-Centaureetum saxicolae|8210
+102|42182|Cosentinio bivalentis-Teucrietum freynii|8210
+103|42183|Rosmarinetum tomentosi|8210
+104|42184|Seselietum vayredani|8210
+105|42185|Lafuenteo rotundifoliae-Teucrietum intricati|8210
+106|42186|Linario anticariae-Saxifragetum biternatae|8210
+107|42188|Biscutello frutescentis-Saxifragetum reuteranae|8210
+108|42189|Rhamno pumilae-Saxifragetum granatensis|8210
+109|42196|Chaenorhino crassifolii-Sarcocapnetum enneaphyllae|8210
+110|42200|Sarcocapno baeticae-Centaureetum clementei|8210
+111|42208|Cheilantho maderensis-Cosentinietum velleae|8220
+112|42209|Notholaeno marantae-Cheilanthetum guanchicae|8220
+113|42220|Xanthio italici-Polygonetum persicariae|3270
+114|42228|Salsolo kali-Cakiletum maritimae|1210
+115|42229|Hypochoerido radicatae-Glaucietum flavi|1210
+116|42231|Eryngio maritimi-Sporoboletum arenarii|1210
+117|42232|Sporoboletum arenarii|1210
+118|42239|Polygalo microphyllae-Cistetum populifolii|4030_0
+119|42240|Halimio ocymoidis-Ericetum umbellatae|4030_0
+120|42241|Erico scopariae-Ulicetum australis|2150_0
+121|42242|Ericetum australo-andevalensis|4030_0
+122|42243|Ulici eriocladi-Ericetum umbellatae|4030_0
+123|42244|Erico australis-Cistetum populifolii|4030_0
+124|42248|Genisto tridentis-Stauracanthetum boivinii|4030_0
+125|42249|Genisto tridentis-Stauracanthetum boivinii stauracanthetosum boivinii|4030_0
+126|42250|Genisto tridentis-Satauracanthetum boivinii quercetosum lusitanicae|4030_0
+127|42251|Saturejo salzmannii-Drosophylletum lusitanici|4030_0
+128|42254|Genisto anglicae-Ericetum ciliaris|4020
+129|42255|Erico ciliaris-Ulicetum lusitanici|4020
+130|42256|Erico tetralicis-Myricetum gale|4020
+131|42269|Erigeronto frigidi-Festucetum clementei|6160
+132|42270|Festucetum moleroio-pseudoeskiae|6160
+133|42271|Galio pyrenaici-Trisetetum glacialis|6160
+134|42273|Arenario frigidae-Festucetum indigestae|6160
+135|42274|Sideritido glacialis-Arenarietum pungentis|6160
+136|42288|Charetum canescentis|3140
+137|42289|Charetum galioidis|3140
+138|42290|Lamprothamnetum papulosi|3140
+139|42293|Charetum vulgaris|3140
+140|42293|Charetum vulgaris|3190
+141|42313|Halimio viscosi-Cistetum laurifolii|4090_2
+142|42314|Thymo gadorensis-Cistetum laurifolii|4090_2
+143|42315|Cytiso reverchonii-Cistetum laurifolii|4090_2
+144|42327|Genisto hirsutae-Cistetum ladaniferi ericetosum australis|4030_1
+145|42332|Calicotomo villosae-Genistetum lanuginosae|5330_6
+146|42333|Calicotomo villosae-Genistetum lanuginosae halimietosum serpentinicolae|5330_6
+147|42334|Calicotomo villosae-Genistetum lanuginosae gesnistetosum umbellatae|5330_6
+148|42343|Ulici eriocladi-Cistetum ladaniferi ericetosum australis|4030_1
+149|42358|Asperulo asperrimae-Staehelinetum baeticae|5330_6
+150|42360|Genisto lanuginosae-Cistetum populifolii|5330_6
+151|42368|Halimio halimifolii-Stauracanthetum genistoidis|2260_0
+152|42368|Halimio halimifolii-Stauracanthetum genistoidis|2260_1
+153|42369|Thymo albicantis-Stauracanthetum genistoidis|2260_0
+154|42369|Thymo albicantis-Stauracanthetum genistoidis|2260_1
+155|42370|Cisto salvifolii-Ulicetum australis|2260_0
+156|42370|Cisto salvifolii-Ulicetum australis|2260_1
+157|42379|Crithmo-Limonietum malacitani|1240
+158|42380|Limonio cossoniani-Lycietum intricati|1240
+159|42383|Limonietum emarginati|1230
+160|42384|Leontodo tingitani-Reichardietum picroidis|1230
+161|42398|Adenocarpetum argyrophylli|5330_3
+162|42408|Retamo sphaerocarpae-Cytisetum bourgaei|5330_3
+163|42411|Genistetum polyanthi|5330_4
+164|42418|Cytiso baetici-Telinetum monspessulanae|5330_3
+165|42419|Comunidad de Cytisus grandiflorus|5330_3
+166|42438|Festucetum hystricis|6170
+167|42439|Coronillo minimae-Astragaletum nummularioidis|6170
+168|42440|Seseli granatensis-Festucetum hystricis|6170
+169|42441|Erodio daucoidis-Saxifragetum erioblastae|6170
+170|42442|Achilleo odoratae-Astragaletum tremolsiani|6170
+171|42443|Senecioni boissieri-Festucetum hystricis|6170
+172|42462|Paronychio cymosae-Pterocephaletum diandri|6220_4
+173|42463|Sedo caespitosi-Tillaeetum muscosae|8230
+174|42468|Chamaemelo fuscati-Sedetum andegavensis|8230
+175|42469|Sedetum caespitoso-arenarii|8230
+176|42478|Wahlenbergio nutabundae-Loeflingietum pentandrae|2230_0
+177|42478|Wahlenbergio nutabundae-Loeflingietum pentandrae|2230_1
+178|42479|Malcolmio trilobae-Hymenocarpetum hamosi|2230_0
+179|42479|Malcolmio trilobae-Hymenocarpetum hamosi|2230_1
+180|42480|Linario donyanae-Loeflingietum baeticae|2230_0
+181|42480|Linario donyanae-Loeflingietum baeticae|2230_1
+182|42489|Triplachno nitentis-Silenetum ramosissimae|2230_0
+183|42489|Triplachno nitentis-Silenetum ramosissimae|2230_1
+184|42498|Eryngio ilicifolii-Plantaginetum ovatae|6220_0
+185|42499|Filago ramossisimae-Stipetum capensis|6220_0
+186|42500|Plantagini ovatae-Chaenorrhinetum grandiflori|6220_0
+187|42503|Arenario capillipedis-Iberidetum fontqueri|6220_4
+188|42504|Violo demetriae-Jonopsidietum prolongoi|6220_3
+189|42505|Arenario arundanae-Linarietum salzmannii|6220_0
+190|42506|Arenario modestae-Linarietum angustealatae|6220_0
+191|42507|Jasiono penicillatae-Linarietum saturejoidis|6220_0
+192|42508|Pistorinio-Chaenorrhinetum raveyi|6220_0
+193|42509|Comunidad de Chaenorrhinum rubrifolium y Arenaria arundana|6220_0
+194|42510|Sileno lasyostilae-Arenarietum tenuis|6220_3
+195|42518|Saxifrago tridactylitae-Hornungietum petraeae|6220_0
+196|42519|Campanulo erini-Bellidetum microcephalae|6220_0
+197|42520|Velezio rigidae-Asteriscetum aquatici|6220_0
+198|42521|Velezio rigidae-Asteriscetum aquatici astericetosum aquaticae|6220_0
+199|42522|Velezio rigidae-Asteriscetum aquatici vulpietosum menbranaceae|6220_0
+200|42525|Ammochloo palestinae-Linarietum nigricantis|6220_0
+201|42526|Brachyapio dichotomi-Callipeltetum cucullaris|6220_0
+202|42528|Bupleuro semicompositi-Filaginetum mareoticae|1310
+203|42529|Iflogo spicatae-Silenetum adscendentis|6220_0
+204|42530|Comunidad de Acinus rotundifolius y Linaria haenseleri|6220_0
+205|42558|Junco pygmaei-Isoetetum velati|3170
+206|42560|Cypero badii-Preslietum cervinae|3170
+207|42563|Pulicario paludosae-Agrostietum porretii|3170
+208|42568|Solenopsio laurentiae-Juncetum tingitani|3170
+209|42569|Loto hispidi-Chaetopogonetum fasciculati|3170
+210|42572|Lythro thymifoliae-Crassuletum vaillantii|3170
+211|42573|Hyperico humifusi-Cicendietum filiformis|3170
+212|42574|Periballio laevis-Illecebretum verticillati|3170
+213|42578|Ludwigio palustris-Cyperetum micheliani|3170
+214|42588|Cypero micheliani-Crypsietum alopecuroidis|3170
+215|42589|Isolepido-Lythretum baetici|3170
+216|42590|Glino lotoidis-Verbenetum supinae|3170
+217|42591|Damasonio alismatis-Crypsietum aculeatae|3170
+218|42592|Polypogono maritimi-Centaurietum spicati|3170
+219|42609|Elymo elongati-Juncetum maritimi|1410
+220|42610|Juncetum maritimo-subulati|1410
+221|42613|Inulo crithmoidis-Juncetum subulati|1410
+222|42772|Peucedano hispanici-Molinietum arundinaceae|6420
+223|42773|Hyperico caprifolii-Schoenetum nigricantis|6420
+224|42775|Galio palustris-Juncetum maritimi|2190
+225|42775|Galio palustris-Juncetum maritimi|6420
+226|42777|Galio viridiflori-Schoenetum nigricantis|6420
+227|42778|Galio viridiflori-Schoenetum nigricantis molinietosum caeruleae|6420
+228|42779|Galio viridiflori-Schoenetum nigricantis oryzopsidetosum|6420
+229|42782|Holoschoeno-Juncetum acuti|2190
+230|42782|Holoschoeno-Juncetum acuti|6420
+231|42783|Inulo viscosae-Schoenetum nigricantis|6420
+232|42784|Junco rugosi-Ericetum andevalensis|4020
+233|42785|Molinio arundinaceae-Ericetum erigenae|6420
+234|42786|Comunidad de Erica erigena|6420
+235|42802|Ranunculo scelerati-Paspaletum distichi|3280
+236|42808|Euphrasio willkommii-Festucetum amplae|6220_5
+237|42811|Anthoxantho aristati-Holcetum setiglumis|6220_4
+238|42848|Aconito burnatii-Senecionetum elodis|6430
+239|42858|Ranunculo acetosellifolii-Vaccinietum nani|6230_1
+240|42859|Nardo strictae-Festucetum ibericae|6170
+241|42860|Plantagini granatensis-Festucetum ibericae|6170
+242|42861|Armerio splendentis-Agrostietum nevadensis|6230_1
+243|42878|Polygono equisetiformis-Tamaricetum africanae|92D0_0
+244|42880|Polygono equisetiformis-Tamaricetum africanae aretosum italici|92D0_0
+245|42884|Tamaricetum gallicae|92D0_0
+246|42888|Agrostio stoloniferae-Tamaricetum canariensis|92D0_0
+247|42889|Suaedo braun-blanquetii-Tamaricetum boveanae|92D0_0
+248|42890|Rubo ulmifolii-Loniceretum biflorae|92D0_0
+249|42891|Lonicero biflorae-Populetum albae|92A0_0
+250|42891|Lonicero biflorae-Populetum albae|92D0_0
+251|42894|Rubo ulmifolii-Nerietum oleandri|92D0_0
+252|42900|Erico terminalis-Nerietum oleandri|92D0_0
+253|42902|Erico terminalis-Nerietum oleandri galietosum viridiflori|92D0_0
+254|42909|Pegano harmalae-Salsoletum vermiculatae|1430
+255|42912|Suaedo fruticosae-Salsoletum oppositifolliae|1430
+256|42913|Atriplici glaucae-Suaedetum pruinosae|1430
+257|42914|Atriplicetum glauco-halimi|1430
+258|42915|Withanio frutescentis-Lycietum intricati|1430
+259|42918|Hammado articulatae-Atriplicetum glaucae|1430
+260|42919|Atriplici glaucae-Salsoletum genistioidis|1430
+261|42923|Zygophyllo fabaginis-Atriplicetum glaucae|1430
+262|42928|Teucrio compacti-Helychrysetum serotini|8130
+263|42933|Andryalo ragusinae-Artemisietum barrelieri|1430
+264|42934|Artemisio barrelieri-Salsoletum genistoidis|1430
+265|42958|Digitali thapsi-Dianthetum lusitani|8220
+266|42959|Crepido oporinoidis-Rumicetum indurati|8220
+267|42960|Diantho lusitani-Antirrhinetum rupestris|8220
+268|42962|Asplenio billotii-Dianthetum lusitani|8220
+269|42964|Centaureo granatensis-Andryaletum ramosissimae|8130
+270|42965|Linario clementei-Andryaletum ramosissimae|8130
+271|42966|Echio-Crambetum filiformis|8130
+272|42968|Campanulo mollis-Phagnaletum intermedii|8130
+273|42969|Lactuco vimineae-Silenetum inapertae|3250
+274|42969|Lactuco vimineae-Silenetum inapertae|8130
+275|43018|Cladietum marisci|7210
+276|43021|Cladio marisci-Caricetum hispidae|7210
+277|43033|Aquilegio nevadensis-Ranunculetum granatensis|6430
+278|43039|Daphno hispanicae-Pinetum nevadensis|4060
+279|43039|Daphno hispanicae-Pinetum nevadensis|9530
+280|43040|Junipero phoeniceae-Pinetum mauretanicae|9530
+281|43041|Abieti pinsapo-Juniperetum sabinae|4060
+282|43041|Abieti pinsapo-Juniperetum sabinae|9520
+283|43045|Juniperetum phoeniceo-thuriferae|5210
+284|43048|Genisto versicoloris-Juniperetum hemisphaericae|5120
+285|43058|Trifolio subterranei-Poetum bulbosae|6220_2
+286|43060|Trifolio subterranei-Poetum bulbosae isoetetosum histricis|6220_2
+287|43068|Trifolio subterranei-Plantaginetum serrariae|6220_2
+288|43069|Comunidad de Poa bulbosa|6220_2
+289|43088|Posidonietum oceanicae|1120
+290|43101|Potametum lucentis|3150_0
+291|43105|Nymphaeetum albo-luteae|3150_0
+292|43105|Nymphaeetum albo-luteae|3150_1
+293|43112|Callitricho platycarpae-Elatinetum alsinastri|3260
+294|43113|Callitricho-Ranunculetum baudotii|1150
+295|43113|Ranunculetum baudotii|3260
+296|43167|Sanguisorbo hybridae-Quercetum suberis|9330
+297|43168|Sanguisorbo hybridae-Quercetum suberis quercetosum suberis|9330
+298|43169|Sanguisorbo hybridae-Quercetum suberis quercetosum pyrenaicae|9330
+299|43170|Sanguisorbo hybridae-Quercetum suberis quercetosum canariensis|9330
+300|43177|Pyro bourgeanae-Quercetum rotundifoliae|9340
+301|43178|Pyro bourgeanae-Quercetum rotundifoliae quercetosum rotundifoliae|9340
+302|43179|Pyro bourgaeanae-Quercetum rotundifoliae quercetosum suberis|9340
+303|43180|Pyro bourgaeanae-Quercetum rotundifoliae myrtetosum communis|9340
+304|43182|Adenocarpo decorticantis-Quercetum rotundifoliae|9340
+305|43183|Adenocarpo decorticantis-Quercetum suberis|9330
+306|43187|Paeonio coriaceae-Quercetum rotundifoliae|9340
+307|43188|Paeonio coriaceae-Quercetum rotundifoliae quercetosum fagineae|9340
+308|43189|Paeonio coriaceae-Quercetum rotundifoliae abietosum pinsapo|9340
+309|43190|Paeonio coriaceae-Quercetum rotundifoliae pistacietosum lentisci|9340
+310|43191|Paeonio coriaceae-Quercetum rotundifoliae var. de Abies pinsapo|9340
+311|43194|Berberido hispanicae-Quercetum rotundifoliae|9340
+312|43198|Rhamno oleoidis-Quercetum rotundifoliae|9340
+313|43199|Rhamno oleoidis-Quercetum rotundifoliae quercetosum rotundifoliae|9340
+314|43200|Rhamno oleoidis-Quercetum rotundifoliae quercetosum suberis|9340
+315|43202|Myrto communis-Quercetum rotundifoliae|9340
+316|43203|Myrto communis-Quercetum suberis|9330
+317|43204|Myrto communis-Quercetum suberis quercetosum suberis|9330
+318|43205|Myrto communis-Quercetum suberis halimietosum halimifolii|9330
+319|43207|Oleo sylvestris-Quercetum suberis|9330
+320|43208|Aro italici-Oleetum sylvestris|9320_0
+321|43209|Aro italici-Oleetum sylvestris oleetosum sylvestris|9320_0
+322|43210|Aro italici-Oleetum sylvestris quercetosum suberis|9320_0
+323|43211|Aro italici-Oleetum sylvestris fraxinetosum angustifoliae|9320_0
+324|43213|Rusco hypophylli-Quercetum canariensis|9240_0
+325|43214|Rusco hypophylli-Quercetum canariensis quercetosum canariensis|9240_0
+326|43215|Rusco hypophylli-Quercetum canariensis rhododendretosum baetici|9240_0
+327|43216|Rusco hypophylli-Quercetum canariensis lauretosum nobilis|9240_0
+328|43217|Rusco hypophylli-Quercetum canariensis quercetosum broteroi|9240_0
+329|43220|Teucrio baetici-Quercetum suberis|9330
+330|43221|Teucrio baetici-Quercetum suberis quercetosum suberis|9330
+331|43222|Teucrio baetici-Quercetum suberis quercetosum rotundifoliae|9330
+332|43223|Teucrio baetici-Quercetum suberis quercetosum canariensis|9330
+333|43224|Teucrio baetici-Quercetum suberis var. con Abies pinsapo|9330
+334|43237|Asparago albi-Rhamnion oleoidis|2260_2
+335|43238|Chamaeropo humilis-Rhamnetum lycioidis|5330_2
+336|43239|Bupleuro gibraltarici-Pistacietum lentisci|5330_2
+337|43240|Bupleuro gibraltarici-Pistacietum lentisci adenocarpetosum telonensis|5330_2
+338|43242|Chamaeropo humilis-Juniperetum phoeniceae|5210
+339|43243|Asparago albi-Rhamnetum oleoidis|5330_2
+340|43245|Asparago albi-Quercetum cocciferae|5330_2
+341|43245|Asparago albi-Quercetum cocciferae|5330_7
+342|43246|Asparago albi-Rhamnetum oleoidis ericetosum scopariae|5330_2
+343|43248|Asparago aphylli-Calicotometum villosae|5330_2
+344|43250|Asparago aphylli-Calicotometum villosae genistetosum linifoliae|5330_2
+345|43251|Asparago aphylli-Calicotometum villosae juniperetosum turbinatae|5330_2
+346|43253|Cneoro tricocci-Buxetum balearicae|5330_4
+347|43254|Pino acutisquamae-Quercetum cocciferae|5330_7
+348|43254|Pino acutisquamae-Quercetum cocciferae|9540
+349|43255|Pino acutisquamae-Quercetum cocciferae arbutetosum unedonis|9540
+350|43258|Thymbro capitatae-Juniperetum turbinatae|5210
+351|43259|Rhamno myrtifolii-Juniperetum phoeniceae|5210
+352|43259|Rhamno myrtifolii-Juniperetum phoeniceae|9540
+353|43260|Rhamno myrtifolii-Juniperetum phoeniceae bupleuretosum gibraltarici|5210
+354|43261|Rhamno myrtifolii-Juniperetum phoeniceae rhamnetosum oleoides|5210
+355|43268|Rhamno lycioidis-Quercetum cocciferae|5330_7
+356|43269|Rhamno lycioidis-Juniperetum phoeniceae|5210
+357|43270|Crataego monogynae-Quercetum cocciferae|5330_7
+358|43273|Teucrio compacti-Quercetum cocciferae|5330_7
+359|43274|Hyacinthoido hispanicae-Quercetum cocciferae|5330_7
+360|43278|Mayteno europaei-Periplocetum angustifoliae|5220
+361|43279|Ziziphetum loti|5220
+362|43280|Zizipho loti-Maytenetum europaei|5220
+363|43282|Thymelaeo valentinae-Genistetum ramosissimae|5330_4
+364|43283|Bupleuro gibraltarici-Ononidetum speciosae|5330_2
+365|43284|Coridothymo capitati-Genistetum haenseleri|5330_4
+366|43285|Lavandulo dentatae-Genistetum retamoidis|5330_4
+367|43286|Phlomido almeriensis-Ulicetum canescentis|5330_4
+368|43287|Ulici-Genistetum speciosae|5330_4
+369|43288|Asparago horridi-Genistetum retamoidis|5330_4
+370|43293|Rhamno angustifoliae-Juniperetum turbinatae|2250
+371|43294|Osyrio quadripartitae-Juniperetum turbinatae|2250
+372|43295|Rhamno oleoidis-Juniperetum macrocarpae|2250
+373|43298|Rubio longifoliae-Corematetum albi|2260_0
+374|43298|Rubio longifoliae-Corematetum albi|2260_1
+375|43308|Phillyreo angustifoliae-Arbutetum unedonis|5330_1
+376|43310|Phillyreo angustifoliae-Arbutetum unedonis pistacietosum lentisci|5330_1
+377|43311|Phillyreo angustifoliae-Arbutetum unedonis viburnetosum tini|5330_1
+378|43313|Cytiso baetici-Arbutetum unedonis|5330_1
+379|43315|Cytiso baetici-Arbutetum unedonis quercetosum cocciferae|5330_1
+380|43316|Cytiso baetici-Arbutetum unedonis bupleuretosum fruticosi|5330_1
+381|43318|Cytiso tribracteolati-Juniperetum oxycedri|5210
+382|43359|Daphno latifoliae-Aceretum granatensis|9240_0
+383|43360|Daphno latifoliae-Aceretum granatensis quercetosum alpestris|9240_0
+384|43362|Geo urbani-Coryletum avellanae|91E0
+385|43362|Geo urbani-Coryletum avellanae|9240_1
+386|43368|Paeonio broteroi-Abietetum pinsapo|9520
+387|43369|Bunio macucae-Abietetum pinsapo|9520
+388|43379|Arbuto unedonis-Quercetum pyrenaicae|9230
+389|43380|Adenocarpo decorticantis-Quercetum pyrenaicae|9230
+390|43381|Adenocarpo decorticantis-Quercetum pyrenaicae aceretosum granatensis|9230
+391|43383|Berberido australis-Quercetum pyrenaicae|9230
+392|43384|Sorbo torminalis-Quercetum pyrenaicae|9230
+393|43385|Luzulo baeticae-Quercetum pyrenaicae|9230
+394|43386|Comunidad de Betula fontqueri|9180
+395|43387|Bosques de Castanea sativa|9260
+396|43399|Rubio tinctorum-Populetum albae|92A0_0
+397|43400|Nerio oleandri-Populetum albae|92A0_0
+398|43401|Crataego brevispinae-Populetum albae|92A0_0
+399|43408|Opopanaco chironii-Ulmetum minoris|92A0_1
+400|43409|Ficario ranunculoidis-Fraxinetum angustifoliae|91B0
+401|43410|Ficario ranunculoidis-Fraxinetum angustifoliae salicetosum pedicellatae|91B0
+402|43411|Ficario ranunculoidis-Fraxinetum angustifoliae tamaricetosum africanae|91B0
+403|43414|Aceri granatensis-Fraxinetum angustifoliae|91B0
+404|43415|Comunidad de Fraxinus angustifolia|91B0
+405|43419|Scrophulario scorodoniae-Alnetum glutinosae|91E0
+406|43420|Scrophulario scorodoniae-Alnetum glutinosae nerietosum oleandri|91E0
+407|43422|Viti viniferae-Salicetum atrocinereae|92A0_2
+408|43424|Rhododendro baetici-Alnetum glutinosae|92B0_0
+409|43425|Rhododendro baetici-Alnetum glutinosae rhododendretosum baetici|92B0_0
+410|43426|Rhododendro baetici-Alnetum glutinosae nerietosum oleandri|92B0_0
+411|43427|Arisaro proboscidei-Alnetum glutinosae|91E0
+412|43427|Arisaro proboscidei-Alnetum glutinosae|92B0_0
+413|43429|Arisaro proboscidei-Alnetum glutinosae nerietosum oleandri|91E0
+414|43438|Salicetum discoloro-angustifoliae|92A0_2
+415|43440|Salicetum salviifoliae|92A0_2
+416|43441|Equiseto telmateiae-Salicetum pedicellatae|92A0_2
+417|43442|Equiseto telmateiae-Salicetum pedicellatae salicetosum albae|92A0_2
+418|43443|Equiseto telmateiae-Salicetum pedicellatae nerietosum oleandri|92A0_2
+419|43445|Nerio oleandri-Salicetum pedicellatae|92A0_2
+420|43447|Erico erigenae-Salicetum pedicellatae|92A0_2
+421|43447|Erico mediterraneae-Salicetum pedicellatae|92A0_2
+422|43448|Erico erigenae-Salicetum pedicellatae nerietosum oleandri|92A0_2
+423|43450|Comunidad de Salix atrocinerea|92A0_2
+424|43458|Pyro bourgaeanae-Flueggeetum tinctoriae|92D0_1
+425|43459|Pyro bourgaeanae-Flueggeetum tinctoriae flueggeetosum tinctoriae|92D0_1
+426|43460|Pyro bourgeanae-Flueggeetum tinctoriae nerietosum oleandri|92D0_1
+427|43469|Lonicero splendidae-Buxetum sempervirentis|5110_0
+428|43470|Rubo ulmifolii-Coriarietum myrtifoliae|5110_1
+429|43473|Lonicero hispanicae-Rubetum ulmifolii|5110_1
+430|43478|Lonicero splendidae-Berberidetum hispanicae|5110_1
+431|43479|Lonicero splendidae-Berberidetum hispanicae juniperetosum sabinae|5110_1
+432|43482|Lonicero arboreae-Rhamnetum cathartici|5110_1
+433|43483|Pruno mahalebo-Berberidetum hispanicae|5110_1
+434|43485|Crataego granatensis-Loniceretum arboreae|5110_1
+435|43487|Viburno lantanae-Berberidetum australis|5110_1
+436|43509|Odontito purpurei-Thymetum baetici|5330_5
+437|43510|Ulici baetici-Cistetum clusii|5330_6
+438|43511|Ulici baetici-Cistetum clusii teucrietosum chysotrici|5330_6
+439|43512|Ulici baetici-Cistetum clusii thymetosum capitati|5330_6
+440|43514|Teucrio lusitanici-Coridothymetum capitati|5330_5
+441|43515|Cisto clusii-Ulicetum rivasgodayanii|5330_6
+442|43517|Asperulo hirsutae-Ulicetum scabri|5330_6
+443|43518|Asperulo hirsutae-Ulicetum scabri ulicetosum scabri|5330_6
+444|43519|Asperulo hirsutae-Ulicetum scabri anthyllidetosum cytisoides|5330_6
+445|43522|Genisto equisetiformis-Cytisetum fontanesii|5330_6
+446|43523|Erico multiflorae-Thymetum longliflori|5330_6
+447|43528|Convolvulo lanuginosi-Lavanduletum lanatae|4090_1
+448|43529|Convolvulo lanuginosi-Lavanduletum lanatae velletosum spinosae|4090_1
+449|43532|Thymo orospedani-Cistetum clusii|4090_1
+450|43533|Saturejo intricatae-Echinospartetum boissieri|4090_1
+451|43534|Santolino canescentis-Salvietum oxyodontis|4090_1
+452|43537|Ulici baetici-Lavanduletum lanatae|4090_1
+453|43538|Ulici baetici-Lavanduletum lanatae lavanduletosum lanatae|4090_1
+454|43539|Ulici baetici-Lavanduletum lanatae erinaceetosum anthyllidis|4090_1
+455|43542|Helianthemo nummularium-Genistetum pseudopilosae|4090_0
+456|43543|Teucrio leonis-Erinaceetum anthyllidis|4090_1
+457|43544|Sideritido incanae-Lavanduletum lanatae|4090_1
+458|43545|Thymo gracilis-Lavanduletum lanatae|5330_6
+459|43549|Paronychio aretioidis-Astragaletum tumidi|4090_1
+460|43558|Festuco hystricis-Astragaletum granatensis|4090_0
+461|43559|Festuco hystricis-Astragaletum granatensis genistetosum versicoloris|4090_0
+462|43561|Saturejo intricatae-Velletum spinosae|4090_0
+463|43563|Sideritido virgatae-Genistetum longipedis|4090_0
+464|43564|Astragalo andresmolinae-Bupleuretum spinosi|4090_0
+465|43566|Erinaceo anthyllidis-Genistetum longipedis|4090_0
+466|43569|Jurineo pinnatae-Gypsophiletum struthii|1520
+467|43570|Genisto viciosoi-Velletum spinosae|4090_0
+468|43572|Helianthemo alypoidis-Gypsophiletum struthii astragaletosum grossii|1520
+469|43573|Teucrio balthazaris-Santolinetum viscosae|1520
+470|43574|Santolino viscosae-Gypsophiletum struthii|1520
+471|43575|Helianthemo alypoidis-Gypsophiletum struthii|1520
+472|43578|Anabasio hispanicae-Euzomodendretum bourgeani|5330_5
+473|43579|Limonio-Anabasietum limonietosum estevei|1510
+474|43582|Helianthemo almeriensis-Sideritidetum pusillae|5330_6
+475|43583|Teucrio lanigeri-Sideritidetum ibanyezii|5330_5
+476|43584|Teucrio belionis-Helianthemetum scopulorum|2260_0
+477|43584|Teucrio belionis-Helianthemetum scopulorum|2260_1
+478|43585|Sideritido osteoxyllae-Teucrietum charidemi|5330_5
+479|43588|Convolvulo nitidi-Andryaletum agardhii|4090_0
+480|43589|Helianthemo frigiduli-Pterocephaletum spathulati|4090_0
+481|43590|Helianthemo visciduli-Anthyllidetum argyrophyllae|4090_1
+482|43591|Hippocrepido eriocarpae-Pterocephaletum spathulati|4090_0
+483|43593|Scorzonero albicantis-Pterocephaletum spathulati|4090_0
+484|43594|Thymo granatensis-Arenarietum tomentosae|4090_1
+485|43596|Brassico almeriensis-Pterocephaletum spathulati|4090_0
+486|43597|Fumano paradoxae-Thymetum sabulicolae|4090_1
+487|43598|Galio baetici-Thymetum granatensis|4090_1
+488|43599|Comunidad de Lithodora nitida y Convolvulus boissieri|4090_0
+489|43608|Ruppietum drepanensis|1340
+490|43609|Enteromorpho intestinalidis-Ruppietum maritimae|1340
+491|43615|Zanichellietum pedicellatae|1150
+492|43618|Parapholido incurvae-Frankenietum pulverulentae|1310
+493|43620|Hainardio cylindricae-Rostrarietum phleoidis|1310
+494|43621|Suaedo splendentis-Salsoletum sodae|1310
+495|43623|Cressetum villosae|1310
+496|43624|Polypogono maritimi-Hordeetum marini|1310
+497|43639|Cistancho phelypaeae-Sarcocornietum fruticosae|1420
+498|43641|Puccinellio maritimae-Sarcocornietum perennis|1420
+499|43643|Halimiono portulacoidis-Sarcocornietum alpini|1420
+500|43644|Sarcocornietum alpini|1420
+501|43646|Cistancho phelypaeae-Suadetum verae|1420
+502|43647|Polygono equisetiformis-Limoniastretum monopetali|1420
+503|43649|Frankenio corymbosae-Arthrocnemetum macrostachyi|1420
+504|43650|Inulo crithmoidis-Arthrocnemetum macrostachyi|1420
+505|43651|Arthrocnemo macrostachyi-Juncetum subulati|1420
+506|43652|Frankenio corymbosae-Halocnemetum strobilacei|1420
+507|43653|Limonietum ferulacei|1420
+508|43658|Puccinellio caespitosae-Suaedetum braun-blanquetii|1420
+509|43659|Puccinellio caespitosae-Arthrocnemetum macrostachyi|1420
+510|43663|Limonio insignis-Lygeetum sparti|1510
+511|43668|Limonietum angustebracteato-delicatuli|1510
+512|43679|Festuco rivularis-Veronicetum turbicolae|6230_1
+513|43680|Leontodonto microcephali-Ranunculetum uniflori|6230_1
+514|43688|Spartinetum densiflorae|1320
+515|43998|Suaedo braun-blanquetii-Salicornietum patulae|1310
+516|43999|Halopeplidetum amplexicaulis|1310
+517|44008|Crepido granatensis-Iberidetum granatensis|8130
+518|44013|Violo crassiusculae-Linarietum glacialis|8130
+519|44014|Senecioni granatensis-Digitaletum nevadensis|8130
+520|44018|Cryptogrammo-Dryopteridetum oreadis|8130
+521|44019|Campanulo willkommii-Polystichetum lonchitidis|8130
+522|44038|Zosteretum noltii|1140
+523|44038|Zosteretum noltii|1150
+524|44055|Myrto communis-Quercetum suberis lavanduletosum|9330
+525|44060|Comunidad de Malcomia lacera y Loeflingia baetica|2230_0
+526|44060|Comunidad de Malcomia lacera y Loeflingia baetica|2230_1
+527|44078|Paspalo distichi-Agrostietum verticillatae|3280
+528|44078|Paspalo distichi-Agrostietum verticillatae|3290
+529|44089|Asparago albi-Rhamnetum oleoidis ceratonietosum siliquae|5330_2
+530|104471|Scrophulario laxiflorae-Rhododendretum baetici daphnetosum latifoliae|92B0_1
+531|104495|Pyro bourgaeanae-Quercetum rotundifoliae quercetosum fagineae|9340
+532|104496|Jasiono marianae-Dianthetum lusitani jasionietosum tomentosae|8220
+533|104497|Coincyo longirostrae-Dianthetum lusitani|8220
+534|104500|Teucrio rotundifolii-Kerneretum boissieri alyssetosum cadevalliani|8210
+535|104501|Athamantho hispanicae-Sideritidetum stachydioidis teucrietosum buxifolii|8210
+536|104503|Comunidad de Stipa lagascae|6220_1
+537|104504|Astragalo sesamei-Poetum bulbosae|6220_2
+538|104505|Rosetum myriacantho-siculae|5110_1
+539|104508|Euphorbio squamigerae-Phagnaletum saxatilis|8130
+540|104510|Hormathophyllo spinosae-Erodietum saxatilis|8210
+541|104516|Verbeno supinae-Gnaphalietum|3170
+542|104517|Puccinellio caespitosae-Sarcocornietum alpini|1420
+543|104518|Peplido erectae-Agrostietum salmanticae|3170
+544|104522|Andryaletum ragusinae|3250
+545|104527|Avenulo occidentalis-Festucetum elegantis|6220_5
+546|104528|Teucrio mariani-Cistetum laurifolii|4090_2
+547|104530|Scrophulario scorodoniae-Alnetum glutinosae scrophularietosum scorodoniae|91E0
+548|104531|Pulicario paludosae-Agrostietum pourrettii chaetopogonetosum fasciculati|3170
+549|104559|Sarcocapnetum integrifoliae|8210
+550|104600|Aeluropodo littoralis-Juncetum subulati|1410
+551|104630|Pistacio terebinthi-Quercetum broteroi|9240_0
+552|104631|Ranunculetum tripartiti|3150_1
+553|104631|Ranunculetum tripartiti|3260
+554|104635|Pinguiculo nevadensis-Eleocharitetum quinqueflorae|6230_1
+555|104685|Poo sylvicolae-Festucetum atlantigenae|6420
+556|104686|Ruppietum cirrhosae|1150
+557|104687|Spartinetum maritimae|1320
+558|104694|Cypero mucronati-Elytrigietum junceae|2110
+559|104702|Genisto speciosae-Cytisetum reverchonii|5330_3
+560|104740|Anthyllido-Arenarietum alfacarensis|4090_0
+561|104741|Daphno hispanicae- Pinetum nevadensis pinetosum mauretanicae|4060
+562|104741|Daphno hispanicae- Pinetum nevadensis pinetosum mauretanicae|9530
+563|104745|Junipero sabinae-Pinetum mauretanicae|4060
+564|104745|Junipero sabinae-Pinetum mauretanicae|9530
+565|104749|Rubo ulmifolii-Rosetum corymbiferae|5110_1
+566|104750|Violetum cazorlensis|8210
+567|104767|Rhamno lycioidis-Pinetum halepensis|9540
+568|104768|Viburno tini-Quercetum fagineae|9240_0
+569|104769|Scrophulario auriculatae-Epilobietum hirsuti|6430
+570|104770|Salicetum neotrichae|92A0_0
+571|104771|Urtico membranaceae-Smyrnietum olusatri|6430
+572|104785|Potametum pectinati|3150_0
+573|104785|Potametum pectinati|3190
+574|104910|Artemisio herbae-albae-Frankenietum thymifoliae|1430
+575|104912|Salicetum purpureo-albae|92A0_0
+576|104919|Pinguiculetum vallisnerifoliae|7220
+577|104939|Halimio atriplicifolii- Digitaletum laciniatae|5330_6
+578|104942|Atriplici glaucae-Suaedetum verae|1420
+579|104944|Salsolo vermiculatae-Artemisietum herbae-albae|1430
+580|104947|Retamo sphaerocarpae-Adenocarpetum decorticantis|5330_3
+581|105770|Suaedo splendentis-Salicornietum patulae|1310
+582|105786|Carici camposii-Salicetum atrocinereae|92A0_2
+583|105790|Comunidad de Quercus rotundifolia|9340
+584|105792|Comunidad de Juniperus oxycedrus|5210
+585|105793|Comunidad de Juniperus phoenicea|5210
+586|105811|Asparago horridi-Juniperetum turbinatae|5210
+587|105815|Galio ephedroidis-Phagnaletum saxatilis|8210
+588|105816|Sarcocapno enneaphyllae-Antirrhinetum mollissimi|8210
+589|105817|Polygono equisetiformis-Juncetum maritimi|1410
+590|105819|Salvio candelabri-Sideritetum lasianthae|5330_6
+591|106338|Senecioni flavi-Forsskaoleetum tenacissimae|3250
+592|106407|Eryngio corniculati-Preslietum cervinae|3170
+593|106414|Comunidad de Salicornia patula|1310
+594|106416|Selaginello denticulatae-Anogrammetum leptophyllae|8220
+595|106421|Tolpido barbatae-Tuberarietum bupleurifoliae|2230_0
+596|106421|Tolpido barbatae-Tuberarietum bupleurifoliae|2230_1
+597|106744|Erico terminalis-Salicetum eleagni|92A0_2
+598|106866|Lemnetum minoris|3150_0
+599|106866|Lemnetum minoris|3150_1
+600|106867|Callitricho brutiae-Ranunculetum peltati|3150_1
+601|106867|Callitricho brutiae-Ranunculetum peltati|3170
+602|106868|Callitricho lusitanicae-Ranunculetum penicillati|3150_1
+603|106868|Callitricho lusitanicae-Ranunculetum penicillati|3260
+604|106869|Potamo pectinati-Myriophylletum spicati|3150_0
+605|106935|Suaedo spicatae-Salicornietum patulae|1310
+606|106936|Soncho crassifolii-Juncetum maritimi|1410
+607|106937|Schoeno nigricantis-Plantaginetum crassifoliae|1410
+608|106938|Senecioni castellani-Lygeetum sparti|1510
+609|106939|Potametum denso-nodosi|3150_1
+610|106940|Lemno-Azolletum filiculoidis|3150_0
+611|106942|Utricularietum exoleto-australis|3160
+612|106943|Cyperetum flavescentis|3170
+613|106944|Cyperetum distachyi|3280
+614|106944|Cyperetum distachyi|3290
+615|106945|Cisto psilosepali-Ericetum lusitanicae|4020
+616|106946|Scabioso turolensis-Erinaceetum anthyllidis|4090_1
+617|106947|Saturejo canescentis-Thymetum hyemalis|5330_5
+618|106948|Querco cocciferae-Pistacetum lentisci|5330_2
+619|106949|Geo rivales-Cirsietum rosulati|6420
+620|106951|Cratoneuro filicini-Anagallidetum tenellae|7220
+621|106953|Thalictro valentini-Conopodietum thalictrifolii|8130
+622|106955|Cystopterido pseudoregiae-Dryopteridetum submontanae|8130
+623|106956|Lafuenteo rotundifoliae-Centaureetum saxicolae|8210
+624|106958|Asplenio ceterach-Cheilanthetum acrosticae|8210
+625|106961|Salici atrocinereae-Populetum albae|92A0_0
+626|106962|Aro cylindracei-Ulmetum minoris|92A0_1
+627|106963|Rubio longifoliae-Quercetum rotundifoliae|9340
+628|106967|Cymodoceetum nodosae|1110_0
+629|106967|Cymodoceetum nodosae|1110_1
+630|106968|Microcnemetum coralloidis|1310
+631|106969|Zosteretum marinae|1110_0
+632|106969|Zosteretum marinae|1110_1
+633|106969|Zosteretum marinae|1150
+634|106976|Corydothymo capitati-Phlomidetum almeriensis|5330_6
+635|106977|Sideritido alhamillensis-Cistetum albidi|5330_6
+636|107006|Limonio delicatuli-Gypsophiletum tomentosae|1510
+637|107007|Schoeno nigricantis-Plantaginetum maritimae|1410
+638|107012|Genisto scorpii-Retametum sphaerocarpae|5330_3
+639|107013|Comunidad de Buxus sempervirens|5110_0
+640|107014|Comunidad de Pinus halepensis|9540
+641|107016|Comunidad de Elaeagnus angustifolia|92D0_0
+642|107157|Limonio quesadensis-Lygeetum sparti|1510
+643|107158|Limonio delicatuli-Nerietum oleandri|92D0_0
+644|107159|Cytiso heterochroi-Ericetum arboreae|5330_1
+645|107231|Rupicapnetum decipientis|8210
+646|107235|Paronychio aretioidis-Astragaletum tumidi thymetosum orospedani|4090_1
+647|107295|Spergulo fallacis-Plantaginetum ovatae|6220_0
+648|107296|Thymo baetici-Sideritetum luteolae|5330_5
+649|107297|Limonio insignis-Anabasietum hispanicae|1510
+650|107319|Dorycnio recti-Salicetum pedicellatae|92A0_2
+651|107320|Calicotomo intermediae-Maytenetum senegalensis|5220
+652|107322|Elymo repentis-Tamaricetum canariensis|92D0_0
+653|107328|Lemno minoris-Hydrocharitetum morsus-ranae|3150_0
+654|107331|Puccinellio ibericae-Sarcocornietum perennis|1420
+655|107339|Saxifragetum bourgeanae|8210
+656|107340|Selaginello denticulatae-Saxifragetum gemmulosae|8220
+657|107359|Oleo sylvestris-Maytenetum europaei|5220
+658|107362|Odontito purpurei-Thymetum baetici teucrietosum almeriensis|5330_5
+659|107363|Salici pedicellatae-Populetum albae|92A0_0
+660|107364|Centaureo sphaerocephalae-Retametum monospermae|2260_2
+661|107367|Berberido-Buxetum sempervirentis|5110_0
+662|107845|Inulo crithmoidis-Tamaricetum boveanae|92D0_0
+663|107847|Ruppietum spiralis|1150
+664|111906|Myriophyllo alterniflori-Potametum crispi|3150_0
+665|111907|Myriophyllo alterniflori-Potametum natantis|3150_1
+666|111908|Zannichellietum contortae|3150_0
+667|111909|Zannichellio palustri-Potametum colorati|3150_1
+668|111910|Zannichellio petatae-Groelandietum densae|3150_1
+669|111911|Callitrichio brutia-Ranunculetum pseudoflotantis|3260
+670|111912|Ranunculetum trichophylli|3260
+671|99999990|Bupleuro rigidi-Arbutetum unedonis|5330_1
+672|99999991|Rubetum caesio-canescentis|5110_1
+673|99999992|Genisto umbellatae-Chronanthetum diflori|5330_3
+674|99999993|Clematido campaniflorae-Rubetum ulmifolii|5110_1
+675|99999994|Peplido hispidulae-Isoetetum delilei|3170
+676|99999995|Salsolo vermiculatae-Lycietum intricati|1430
+677|99999996|Aristolochio baeticae-Arbutetum unedonis|5330_1
+678|99999997|Chaenorhino reyesii-Campanuletum fastigiatae|6220_0
+679|99999998|Berberido hispanicae-Crataegetum laciniatae|5110_1
+680|99999999|Hyperico elodis-Potamogetum oblongi|3110_0
+681|99999999|Hyperico elodis-Potamogetum oblongi|3160
+682|999999910|Echinosparto iberici-Juniperetum lagunaae|5210
+683|999999911|Poetum ligulatae-bulbosae|6220_2
+684|999999912|Cheilantho acrosticae-Asplenietum petrarchae|8210
+685|999999913|Salici capreae-Betuletum fontqueri|9180
+686|999999914|Comunidad de Schoenus nigricans|2190
+687|999999915|Malcolmio lacera-Anthyllidetum hamosae|2230_0
+688|999999915|Malcolmio lacera-Anthyllidetum hamosae|2230_1
+689|999999916|Comunidad de Littorella uniflora|3110_0
+690|999999917|Comunidad de Wolffia arrhiza|3150_0
+691|999999918|Lemnetum trisulcae|3150_0
+692|999999919|Lemno-Spirodeletum polyrhizae|3150_0
+693|999999920|Charetum fragilis|3190
+694|999999921|Charetum hispidae|3190
+695|999999922|Lactuco chondrilliflorae-Andryaletum ragusinae|3250
+696|999999923|Plantagini sempervirentis-Saponietum ocymoidis|3250
+697|999999924|Comunidad de Erica tetralix|4020
+698|999999925|Erico ciliaris-Ulicetum minoris|4020
+699|999999926|Ulici eriocladi-Ericetum andevalensis|4030_0
+700|999999927|Junipero sabinae-Pinetum clusianae|4060
+701|999999928|Crataego granatensis-Loniceretum arboreae var. Buxus sempervirens|5110_0
+702|999999929|Agrostio nevadensis-Genistetum versicoloris|5120
+703|999999930|Genisto versicoloris-Cytisetum nevadensis|5120
+704|999999931|Allio schoenoprasi-Ranunculetum hispanici|6230_1
+705|999999932|Herniario boissieri-Festucetum hystricis|6170
+706|999999933|Pimpinello gracilis-Festucetum nevadensis|6170
+707|999999934|Polypodietum serrati|8210
+708|999999934|Polypodietum serrati|8220
+709|999999935|Carici composii-Alnetum glutinosae|91E0
+710|999999936|Zizipho loti-Nerietum oleandri|92D0_0
+711|999999937|Junipero sabinae-Pinetum clusianae|9530
+712|42241|Erico scopariae-Ulicetum australis|2150_1
+713|43360|Daphno latifoliae-Aceretum granatensis quercetosum alpestris|9240_2
+714|43359|Daphno latifoliae-Aceretum granatensis|9240_2
