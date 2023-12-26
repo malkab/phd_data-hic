@@ -1,6 +1,7 @@
 [core]
-    remote = storage
+    remote = origin
+    autostage = true
 [cache]
-    local = storage
-['remote "storage"']
-    url = /mnt/samsung_hdd_1_5tb/dvc_storage/malkab-phd-data/malkab-phd-data-hic
+    dir = /home/malkab/ragnarok/dvc/phd_data/phd_data-hic
+['remote "origin"']
+    url = /home/malkab/ragnarok/dvc/phd_data/phd_data-hic

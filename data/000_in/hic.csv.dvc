@@ -1,4 +1,5 @@
 outs:
 - md5: 758bb0e270d8588f5f61c2e5df911cf4
   size: 3521230364
+  hash: md5
   path: hic.csv
